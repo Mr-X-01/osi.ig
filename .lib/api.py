@@ -48,8 +48,7 @@ class extra():
  ║ ║  ╚═╗  ║     ║  ║ ╦
  ╚═╝  ╚═╝  ╩  {gr}o{cy}  ╩  ╚═╝
  
-        {gr}Code By :
-  {gr}Mr. x{nu}
+        {gr}Code By :{gr}Mr. x{nu}
 	            """)
 
 class main():
