@@ -1,4 +1,7 @@
-#!/bin/bash
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
+
 clear
 line="\e[1;31m[*]\e[0m"
 
